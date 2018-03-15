@@ -394,7 +394,7 @@
       "displayName": "Jenkins Docker Image tag",
       "description": "Full tag definition of the Docker Image to be used.",
       "value": "registry.access.redhat.com/openshift3/jenkins-2-rhel7:v3.7"
-    }
+    },
     {
       "name": "JENKINS_CONFIGURATION_REPO_URL",
       "displayName": "Jenkins configuration Git repo",
